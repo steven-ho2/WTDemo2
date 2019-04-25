@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebGL Demo 2",
+"dataUrl": "WebGL Demo 2.data.unityweb",
+"asmCodeUrl": "WebGL Demo 2.asm.code.unityweb",
+"asmMemoryUrl": "WebGL Demo 2.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL Demo 2.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
